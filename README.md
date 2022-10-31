@@ -26,13 +26,13 @@ The below routes are required for the application to succesfuuly load, read, wri
 
 To install dependencies, run the following in your terminal
 
-npm i 
+      npm i 
 
  ## Usage
 
 After installations of dependencies are completed, run the app with below in terminal
 
- node server.js
+       node server.js
  
  
 Deployed link on Heroku app 
