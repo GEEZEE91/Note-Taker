@@ -32,7 +32,7 @@ To install dependencies, run the following in your terminal
 
 After installations of dependencies are completed, run the app with below in terminal
 
-       node server.js
+       npm start
  
  
 ## Deployed link on Heroku app 
