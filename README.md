@@ -45,3 +45,7 @@ After installations of dependencies are completed, run the app with below in ter
 ## Deployed link on Heroku app 
 
       https://floating-river-20214.herokuapp.com/
+      
+## License 
+This project is license under MIT
+  ![Github license](http://img.shields.io/badge/license-MIT-blue.svg)
