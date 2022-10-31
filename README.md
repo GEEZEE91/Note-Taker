@@ -35,6 +35,6 @@ After installations of dependencies are completed, run the app with below in ter
        node server.js
  
  
-Deployed link on Heroku app 
+## Deployed link on Heroku app 
 
       https://floating-river-20214.herokuapp.com/
